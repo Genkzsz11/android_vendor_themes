@@ -54,3 +54,8 @@ PRODUCT_PACKAGES += \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
     NavbarTecnoCamonOverlay
+
+# Switch themes
+PRODUCT_PACKAGES += \
+    MD2Switch \
+    OnePlusSwitch
