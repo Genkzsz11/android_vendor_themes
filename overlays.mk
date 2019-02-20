@@ -58,4 +58,5 @@ PRODUCT_PACKAGES += \
 # Switch themes
 PRODUCT_PACKAGES += \
     MD2Switch \
-    OnePlusSwitch
+    OnePlusSwitch \
+    SwitchTelegram
