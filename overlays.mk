@@ -71,3 +71,7 @@ PRODUCT_PACKAGES += \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
     NavbarTecnoCamonOverlay
+
+# QS Color Overlay
+PRODUCT_PACKAGES += \
+    QsColor
