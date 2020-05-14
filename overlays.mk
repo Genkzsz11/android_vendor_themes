@@ -48,34 +48,6 @@ PRODUCT_PACKAGES += \
     ChocoXSystemOverlay \
     ChocoXSystemUIOverlay
 
-# Fonts
-PRODUCT_PACKAGES += \
-    FontRubikRubikOverlay \
-    FontArbutusSourceOverlay \
-    FontArvoLatoOverlay \
-    FontGoogleSansOverlay \
-    FontAclonicaSourceOverlay \
-    FontAmaranteSourceOverlay \
-    FontBariolSourceOverlay \
-    FontCagliostroSourceOverlay \
-    FontComicSansSourceOverlay \
-    FontCoolstorySourceOverlay \
-    FontGoogleSansSourceOverlay \
-    FontLGSmartGothicSourceOverlay \
-    FontNotoSerifSourceOverlay \
-    FontRosemarySourceOverlay \
-    FontSFProOverlay \
-    FontSonySketchSourceOverlay \
-    FontSurferSourceOverlay \
-    FontCircularStdOverlay \
-    FontSlateForOnePlusOverlay \
-    FontSamsungOneSourceOverlay \
-    FontComfortaaSourceOverlay \
-    FontFiraSansSourceOverlay \
-    FontExotwoSourceOverlay \
-    FontStoropiaSourceOverlay \
-    FontUbuntuSourceOverlay
-
 # Navbar
 PRODUCT_PACKAGES += \
     NavbarAsusOverlay \
