@@ -45,7 +45,9 @@ PRODUCT_PACKAGES += \
     DarkGreySystemOverlay \
     DarkGreySystemUIOverlay \
     MaterialOceanSystemOverlay \
-    MaterialOceanSystemUIOverlay
+    MaterialOceanSystemUIOverlay \
+    CorvusClearSystemOverlay \
+    CorvusClearSystemUIOverlay
 
 # Fonts
 PRODUCT_PACKAGES += \
