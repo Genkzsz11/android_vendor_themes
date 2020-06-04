@@ -13,7 +13,7 @@
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License
-  NOTE: You might also want to edit: packages/SystemUI/res/values-night/colors.xml
+  NOTE: You might also want to edit: packages/SystemUI/res/values-night/themes.xml
   -->
 <resources>
 
@@ -21,6 +21,8 @@
     <color name="notification_material_background_color">#80000000</color>
 
     <color name="du_themes_qs_inactive_color">#ea000000</color>
+
+    <color name="material_grey_800">#80000000</color>
 
 </resources>
 

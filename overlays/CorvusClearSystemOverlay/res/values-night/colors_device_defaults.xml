@@ -14,7 +14,7 @@
 <resources>
 
     <color name="background_device_default_light">#ffffffff</color>
-    <color name="background_floating_device_default_dark">#cc000000</color>
+    <color name="background_floating_device_default_dark">#80000000</color>
     <color name="error_color_device_default_dark">#ffae2317</color>
     <color name="error_color_device_default_light">#ffae2317</color>
     <color name="primary_dark_device_default_dark">#80000000</color>

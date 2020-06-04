@@ -41,4 +41,7 @@
     <!-- The color of the background in the grid of the Global Actions menu -->
     <color name="global_actions_grid_background">#cc000000</color>
 
+    <color name="notification_shade_background_color">@*android:color/transparent</color>
+    <color name="notification_guts_bg_color">@*android:color/transparent</color>
+    <color name="notification_material_background_dark_color">#80000000</color>
 </resources>
